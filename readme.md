@@ -6,3 +6,14 @@ Lernanto is a *web and movile platform* currently being developed whose main obj
 #### Technologies
 * The main structure / front-end code was did in **Expo**
     * Main coding lenguaje is **TypeScript**
+
+--------------------------------------------------------
+
+# Teknologio implikita en la projekto
+
+### Kio estas lernanto?
+Lernanto estas *retejo kaj movebla platformo* nuntempe disvolvita, kies ĉefa celo estas provizi ilojn al la uzantoj, kiuj ebligas al ili plibonigi siajn **metakognajn kapablojn** kaj lerni kiel lerni laŭ la ĝusta maniero.
+
+#### Teknologioj
+* La ĉefa strukturo/antaŭfina kodo estis farita en **Expo**
+     * Ĉefa koda lingvo estas **TypeScript**
